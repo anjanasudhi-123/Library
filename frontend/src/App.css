@@ -1,0 +1,31 @@
+.home {
+  text-align: center;
+  padding: 20px;
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.book-list ul {
+  list-style-type: none;
+}
+
+.book-list li {
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.not-found {
+  text-align: center;
+  padding: 50px;
+}
+
+.back-home {
+  color: blue;
+  text-decoration: none;
+}
